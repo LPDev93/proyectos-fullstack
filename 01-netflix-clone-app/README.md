@@ -88,8 +88,6 @@ Para poder configurar el proyecto deberás seguir los siguientes pasos correctam
 
 <img alt="Netflix Clone - LPDev93" src="https://i.postimg.cc/5t9bB5xN/Captura-de-pantalla-2023-11-25-022619.png" width="100%" height="auto" />
 
-### Parte del Backend
-
 ## 🪪 Licencia
 
 Todos los derechos reservados **Luigui A. Parodi**.
