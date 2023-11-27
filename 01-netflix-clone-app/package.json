@@ -39,6 +39,7 @@
     "typescript": "^5"
   },
   "scripts" {
-    "postinstall": "prisma generate"
+    "postinstall": "prisma generate",
+    "build": "prisma generate && <actual-build-command>"
   }
 }
