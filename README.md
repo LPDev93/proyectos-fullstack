@@ -24,7 +24,7 @@ En cada proyecto indicaré que archivos modificar y que credenciales a usar, com
 
 **Aquí listaré los proyectos que vaya desarrollando. Podrás revisar el live del proyecto en "Ver Live":**
 
-- [✅] **Proyecto 01: Netflix Clone** | [Ver Live](https://lpdev-devops-startup.surge.sh/)
+- [✅] **Proyecto 01: Netflix Clone**
 - [⌛] TBD
 
 ## 📩 Contacto
